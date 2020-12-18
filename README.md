@@ -1,3 +1,3 @@
 # MLMbestpractices
 
-Contains data examples for a manuscript in preparation.
+Contains data examples for a manuscript under review.

@@ -1,0 +1,99 @@
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\020\020_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\032\032_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\034\034_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\035\035_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\036\036_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\037\037_flanker_ldr.cnt}
+ARTCOR POSITIVE 10 30 400 VEOG LDR+CNT {ARTRED.LDR} {E:\Hannah\Dissertation\2 Flanker\037\037_flanker_ldr_blink.cnt} Y N
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\037\037_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\037\037_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\039\039_flanker_ldr.cnt}
+ARTCOR POSITIVE 10 30 400 VEOG LDR+CNT {ARTRED.LDR} {E:\Hannah\Dissertation\2 Flanker\039\039_flanker_ldr_blink.cnt} Y N
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\039\039_flanker_ldr_blink.cnt}
+SAVEEVENT_EX Y N N N N N N N {E:\Hannah\Dissertation\2 Flanker\Event files\039_flanker.ev2} 
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\040\040_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\041\041_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\042\042_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\043\043_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\044\044_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\045\043_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\046\046_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\047\047_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\050\050_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\051\051_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\052\052_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\054\054_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\057\057_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\060\060_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\061\061_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\062\062_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\063\063_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\064\064_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\066\066_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\067\067_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\068\068_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\070\070_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\069\069_flanker_ldr.cnt}
+ARTCOR POSITIVE 10 30 400 VEOG LDR+CNT {ARTRED.LDR} {E:\Hannah\Dissertation\2 Flanker\069\069_flanker_ldr_blink.cnt} Y N
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\069\069_flanker_ldr_blink.cnt}
+SAVEEVENT_EX Y N N N N N N N {E:\Hannah\Dissertation\2 Flanker\Event files\069_flanker.ev2} 
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\071\071_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\072\072_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\073\073_categorization.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\073\073_flanker.cnt}
+LDR {E:\Hannah\Dissertation\HannahDiss.ldr} {E:\Hannah\Dissertation\2 Flanker\073\073_flanker_ldr.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\073\073_flanker_ldr.cnt}
+ARTCOR POSITIVE 10 30 400 VEOG LDR+CNT {ARTRED.LDR} {E:\Hannah\Dissertation\2 Flanker\073\073_flanker_ldr_blink.cnt} Y N
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\073\073_flanker_ldr_blink.cnt}
+SAVEEVENT_EX Y N N N N N N N {E:\Hannah\Dissertation\2 Flanker\Event files\073_flanker.ev2} 
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\079\079_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\080\080_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\080\080_flanker_ldr.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\080\080_flanker_ldr.cnt}
+ARTCOR POSITIVE 10 30 400 VEOG LDR+CNT {ARTRED.LDR} {E:\Hannah\Dissertation\2 Flanker\080\080_flanker_ldr_blink.cnt} Y N
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\080\080_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\087\087_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\088\088_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\089\089_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\091\091_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\092\092_flanker.cnt}
+LDR {E:\Hannah\Dissertation\HannahDiss.ldr} {E:\Hannah\Dissertation\2 Flanker\092\092_flanker_ldr.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\092\092_flanker_ldr.cnt}
+ARTCOR POSITIVE 10 30 400 VEOG LDR+CNT {ARTRED.LDR} {E:\Hannah\Dissertation\2 Flanker\092\092_flanker_ldr_blink.cnt} Y N
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\092\092_flanker_ldr_blink.cnt}
+SAVEEVENT_EX Y N N N N N N N {E:\Hannah\Dissertation\2 Flanker\Event files\092_flanker.ev2} 
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\093\093_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\094\094_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\095\095_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\096\096_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\097\097_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\098\098_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\099\099_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\100\100_flanker_ldr_blink.cnt}
+SAVEEVENT_EX Y N N N N N N N {E:\Hannah\Dissertation\2 Flanker\Event files\100_flanker.ev2} 
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\101\101_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\103\103_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\105\105_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\106\106_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\107\107_flanker.cnt}
+LDR {E:\Hannah\Dissertation\HannahDiss.ldr} {E:\Hannah\Dissertation\2 Flanker\107\107_flanker_ldr.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\107\107_flanker_ldr.cnt}
+ARTCOR POSITIVE 10 30 400 VEOG LDR+CNT {ARTRED.LDR} {E:\Hannah\Dissertation\2 Flanker\107\107_flanker_ldr_blink.cnt} Y N
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\107\107_flanker_ldr_blink.cnt}
+SAVEEVENT_EX Y N N N N N N N {E:\Hannah\Dissertation\2 Flanker\Event files\107_flanker.ev2} 
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\108\108_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\109\109_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\113\113_flanker.cnt}
+LDR {E:\Hannah\Dissertation\HannahDiss.ldr} {E:\Hannah\Dissertation\2 Flanker\113\113_flanker_ldr.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\113\113_flanker_ldr.cnt}
+ARTCOR POSITIVE 10 30 400 VEOG LDR+CNT {ARTRED.LDR} {E:\Hannah\Dissertation\2 Flanker\113\113_flanker_ldr_blink.cnt} Y N
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\113\113_flanker_ldr_blink.cnt}
+SAVEEVENT_EX Y N N N N N N N {E:\Hannah\Dissertation\2 Flanker\Event files\113_flanker.ev2} 
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\114\114_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\115\115_flanker_ldr_blink.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\116\116_flanker.cnt}
+LDR {E:\Hannah\Dissertation\HannahDiss.ldr} {E:\Hannah\Dissertation\2 Flanker\116\116_flanker_ldr.cnt}
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\116\116_flanker_ldr.cnt}
+ARTCOR POSITIVE 10 30 400 VEOG LDR+CNT {ARTRED.LDR} {E:\Hannah\Dissertation\2 Flanker\116\116_flanker_ldr_blink.cnt} Y N
+OPENFILE {E:\Hannah\Dissertation\2 Flanker\116\116_flanker_ldr_blink.cnt}
+SAVEEVENT_EX Y N N N N N N N {E:\Hannah\Dissertation\2 Flanker\Event files\116_flanker.ev2} 
