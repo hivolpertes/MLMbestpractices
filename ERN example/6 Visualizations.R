@@ -1,4 +1,5 @@
 library(tidyverse)
+library(lme4)
 library(shades)
 library(foreach)
 library(emmeans)
